@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="hello_poc_package",
-    version="0.1.0",
+    version="0.1.1",
     py_modules=["hello_poc_package"],
     author="Bala Praneeth",
     author_email="lbalapraneethreddy@karunya.edu.in",
