@@ -9,7 +9,7 @@ Usage:
     print(hello())
 """
 
-__version__ = "0.1.0"
+__version__ = "0.1.1"
 __author__ = "Bala Praneeth"
 __email__ = "lbalapraneethreddy@karunya.edu.in"
 
