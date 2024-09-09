@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="hello_poc_package",
     version="0.1.0",
-    py_modules=["package"],
+    py_modules=["hello_poc_package"],
     author="Bala Praneeth",
     author_email="lbalapraneethreddy@karunya.edu.in",
     description="A sample single-file package for demonstration",
